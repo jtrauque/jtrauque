@@ -1,4 +1,4 @@
-Hi, I'm a student at <a href='https://42.fr/en/homepage/' title='42Paris'>42 Paris</a> 🤓. 
+Hi, I'm a student at <a href='https://42.fr/en/homepage/' title='42Paris'>42 Paris</a> currently at <a href='https://42quebec.com/' title='42Québec'>42 Québec</a> 🤓. 
 
 <p align="left"/>
 💻 Here are the technologies I have worked with :
