@@ -15,7 +15,6 @@ Hi, I'm a student at <a href='https://42.fr/en/homepage/' title='42Paris'>42 Par
 🔍 Here are the technologies that I am working on :
 <p align="center">
      <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="java" width="60" height="60" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/swift/swift-original.svg" alt="swift" width="60" height="60" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jtrauque&count_private=true&show_icons=true&langs_count=3&theme=cobalt">
